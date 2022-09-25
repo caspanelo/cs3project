@@ -25,3 +25,12 @@ Website Outline:
     will materialize, it will open the door and enter it, then the user will be redirected to page chosen. At the
     bottom of the homepage, there will be the regular “Found a bug?”, and the copyright.
   Report a Bug
+      Will be a simple page containing my cellphone number and school email for teachers and classmates to report
+    errors on my website.
+  Hooded Pitohui
+      Page about the Hooded Pitohui bird, which is the first documented poisonous bird.
+  Aldabra Atoll
+      Page about the Aldabra Atoll, which went extinct in the past but re-evolved itself back into existence.
+  Haida Ermine
+      Cute and fluffy animal called a stoat, part of the weasel family.
+  [More pages may be added in the future.]
