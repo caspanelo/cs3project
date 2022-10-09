@@ -1,0 +1,20 @@
+html {overflow:scroll}
+
+body {background-color: #3EA055}
+
+.maindecor {background-color:#2B3856}
+
+.tableformat {float:left; margin-left:10%}
+	td,p,td>a {color:#FFE87C;}
+	th {text-align:left; color:#CC6600}
+	.toprow {text-align:center}
+
+.charmenuformat {float:right; margin-right:10%}
+
+a {text-decoration: none}
+
+.snaptobottom {position:absolute; bottom:0; width:100%}
+
+.aboutus{background-color:#92D050}
+
+.aboutus>span>p {color:#CC6600}
