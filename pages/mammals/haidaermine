@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="author" content="Catherine Anne S. Panelo">
+  <meta name="created" content="08-09-2022">
+  <meta name="last revised" content="31-10-2022">
+  <meta charset="utf-8">
+  <meta name="keywords" content="HTML, CSS, Javascript">
+  <meta name="viewport" content="width=device-width">
+  
+  <title>Amazing Animals!</title>
+  <link href="/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <!--[  that banner thing with the website logo  ]-->
+  <img src="/images/banner.png" class="logobanner">
+
+  <!--[  short description/introduction to the website  ]-->
+  <div class="titlebanner">
+    <p class="emphasis">Haida Ermine</p>
+    <p>(unfortunately, this page is unfinished)</p>
+  </div>
+
+  <!--[  contains the main body of the website. (the dark green area)  ]-->
+  <div class="contentbody">
+    <div class="textcontainer">
+    <p>
+      Lorem ipsum dolor sit amet, consectetur
+      asipiscing elit. Maecenas ullamcorper pharetra
+      enim ac eleifend. Morbi consecetur diam sed
+      eros congue dictum. Cfas a sem risus. Nulla
+      ullamcorper, erat nec tincidunt maximum,
+      lectus nibh pellentesque purus, vitae
+      convallis justo est condimentum mauris.
+      Praesent sapien libero, dapibus a pulvinar
+      ut, ultricies non risus. Phaesellus ut
+      porttitor leo. Pellentesque posuere justo
+      ipsum viverra tristique. Vestibulum eget
+      sagittis augue. Pellentesque habitant morbi
+      tristique senectus et netus et malesuada
+      fames ac turpis egestas. Donec viverra quam
+      diam, ac interdum libero tempor vitae.
+      Vestibulum bibendum est sapien, ut consequat
+      elit cursus aliquet. Curabitur id dui lorem.
+    </p>
+
+    <p>
+      Nulla ut diam vitae nibh porta sagittis. Integer
+      quam lacus, aliquet nec leo eget, vulputate
+      ullamcorper neque. Nunc in luctus sem. Quisque
+      cursus pulvinar felis fermentum luctus. Cras non
+      magna malesuada, semper tellus sed, aliquet
+      ante. Nam blandit ac quam hendrerit semper.
+      Donec tristique tempus mi eget mattis.
+      Pellentesque varius leo nibh, at cursus nulla
+      varius sed. Suspendisse sodales suscipit lorem,
+      nec interdum tellus tristique ut. Phasellus
+      venenatis enim eu luctus scelerisque. Nullam
+      venenatis massa eros, non fringilla mi lobortis
+      quis. Donec eget vestibulum lacus. In orci
+      ipsum, commodo id dignissim ac, pellentesque
+      efficitur diam. Sed nec mi finibus tortor
+      faucibus venenatis a pretium odio. Vestibulum
+      ac odio consequat, finibus dolor eget, cursus
+      tortor. Nam aliquet lectus at commodo commodo.
+    </p>
+      <p>
+      Lorem ipsum dolor sit amet, consectetur
+      asipiscing elit. Maecenas ullamcorper pharetra
+      enim ac eleifend. Morbi consecetur diam sed
+      eros congue dictum. Cfas a sem risus. Nulla
+      ullamcorper, erat nec tincidunt maximum,
+      lectus nibh pellentesque purus, vitae
+      convallis justo est condimentum mauris.
+      Praesent sapien libero, dapibus a pulvinar
+      ut, ultricies non risus. Phaesellus ut
+      porttitor leo. Pellentesque posuere justo
+      ipsum viverra tristique. Vestibulum eget
+      sagittis augue. Pellentesque habitant morbi
+      tristique senectus et netus et malesuada
+      fames ac turpis egestas. Donec viverra quam
+      diam, ac interdum libero tempor vitae.
+      Vestibulum bibendum est sapien, ut consequat
+      elit cursus aliquet. Curabitur id dui lorem.
+    </p>
+
+    <p>
+      Nulla ut diam vitae nibh porta sagittis. Integer
+      quam lacus, aliquet nec leo eget, vulputate
+      ullamcorper neque. Nunc in luctus sem. Quisque
+      cursus pulvinar felis fermentum luctus. Cras non
+      magna malesuada, semper tellus sed, aliquet
+      ante. Nam blandit ac quam hendrerit semper.
+      Donec tristique tempus mi eget mattis.
+      Pellentesque varius leo nibh, at cursus nulla
+      varius sed. Suspendisse sodales suscipit lorem,
+      nec interdum tellus tristique ut. Phasellus
+      venenatis enim eu luctus scelerisque. Nullam
+      venenatis massa eros, non fringilla mi lobortis
+      quis. Donec eget vestibulum lacus. In orci
+      ipsum, commodo id dignissim ac, pellentesque
+      efficitur diam. Sed nec mi finibus tortor
+      faucibus venenatis a pretium odio. Vestibulum
+      ac odio consequat, finibus dolor eget, cursus
+      tortor. Nam aliquet lectus at commodo commodo.
+    </p>
+    </div>
+
+    <!--[  animal image  ]-->
+    <img src="/images/err404.jpg" class="addimage">
+
+    <!--[ progress screen  ]-->
+    <div class="progressmenu">
+        <div><img src="/images/avatar/reading_static.png" class="chareadingif"></div>
+        <div class="charlevelpagever"><p style="color:#2B3856">player data</p></div>
+        <div class="backhomebutton"><a class="emphasis" style="color:#2B3856" href="/index.html">Take a break and return to the homepage?</a></div>
+    </div>
+  </div>
+
+
+  <!--[  the lower banner / footer of the page  ]-->
+  <div>
+    <!--[  that dark blue line at the bottom of the page  ]-->
+    <div class="titlebanner"><br></div>
+
+    <!--[that light green footer containing the About Us, Contact here, and the Copyright symbol  ]-->
+    <div class="aboutus">
+      <span> <p class="emphasis">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>About Us</b></p></span>
+      <span><p class="emphasis"><b>Found a Bug?</b></p></span>
+      <span><p><b>Copyright &copy; C. Panelo</b></p></span>
+    </div>
+  </div>
+  
+</body>
+
+</html>
